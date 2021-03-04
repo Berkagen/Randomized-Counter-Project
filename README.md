@@ -1,4 +1,7 @@
 # Randomized-Counter-Project
+
+Video Link: https://youtu.be/dVAY-oEOZRY
+
 The aim of this project is to implement a randomized counter to 4-digit SSD in Assembly.  It is aimed to make an algorithm that will display the ID (last three digits.) when the code is not counting. When an external button is pressed, it will generate a 3-digit random number, and start counting down to 0. When the counter reaches 0, the number 000 should be displayed for a second, then the code will go back to idle state ,which is display the ID, waiting for the next button press. Pressing the button while counting down will pause counting, and pressing again will resume counting.
 
 ### Schematic Diagram
